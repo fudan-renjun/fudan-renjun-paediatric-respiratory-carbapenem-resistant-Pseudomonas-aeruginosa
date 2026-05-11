@@ -1,0 +1,9 @@
+genome_id	source_label	ST_label	gene	present	kind
+LOCAL_001	local	ST244	phzA1	1	VFDB
+LOCAL_001	local	ST244	hcpA	1	VFDB
+LOCAL_002	local	ST235	phzA1	1	VFDB
+LOCAL_002	local	ST235	cmlA9	1	CARD
+PUBLIC_001	public	ST244	phzA1	1	VFDB
+PUBLIC_001	public	ST244	hcpA	1	VFDB
+PUBLIC_002	public	ST235	phzA1	1	VFDB
+PUBLIC_002	public	ST235	cmlA9	1	CARD

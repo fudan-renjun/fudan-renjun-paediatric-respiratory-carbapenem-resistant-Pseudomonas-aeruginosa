@@ -1,0 +1,5 @@
+genome_id	source_label	ST_label	T3SS_type	collection_year	total_vf_genes	total_resist_genes	exoS	exoU	Phenazine	T6SS	QS_Las	Efflux_MexEF	Efflux_MexXY	Aminoglycoside	gene__phzA1	gene__hcpA	gene__cmlA9
+LOCAL_001	local	ST244	ExoS	2019	185	28	1	0	1	1	1	0	1	1	1	1	0
+LOCAL_002	local	ST235	ExoU	2020	179	34	0	1	1	1	1	1	1	1	1	1	1
+PUBLIC_001	public	ST244	ExoS		186	31	1	0	1	1	1	0	1	1	1	0	0
+PUBLIC_002	public	ST235	ExoU		177	32	0	1	1	0	1	0	1	1	0	1	1
